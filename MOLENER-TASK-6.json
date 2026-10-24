@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-6",
+  "timestamp": "2026-10-24T17:50:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Публикация официального поста об Airdrop MOLENER в X (Twitter).",
+  "author": "AI-агент и Основатель",
+  "executor": "Основатель",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 3.0,
+  "emission": {
+    "total_molener": 3.0,
+    "founder_share": 0.3,
+    "pool_share": 2.7
+  },
+  "hash_of_context": "6860dda617ed680b2ecd55075c8847389426e61f4f773868b6cf1852911ceefc",
+  "signature": "0x4dca56d998d616fc398da2245905bbaff6900c2fad41d52c289e1c9646a9cd2a4ae6c6f34f0dce88994c2f5513a2f0fa12c384075fe1c8df2f6a5ed8f89ad98d1c"
+}
