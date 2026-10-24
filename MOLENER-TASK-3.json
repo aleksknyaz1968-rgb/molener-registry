@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-3",
+  "timestamp": "2026-10-24T15:40:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Публикация первого официального поста о протоколе MOLENER в социальной сети X (Twitter).",
+  "author": "AI-агент и Основатель",
+  "executor": "Основатель",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 3.0,
+  "emission": {
+    "total_molener": 3.0,
+    "founder_share": 0.3,
+    "pool_share": 2.7
+  },
+  "hash_of_context": "07289f41330f5b82c4869197e23501a85b0e20e87400572cfdab8bae2057e7ba",
+  "signature": "0x42ece33388cce486b402114872c2f8c49f43c3e7103ef7cd58656467aa87e57b0483c9d73a593c5ddcc91b06d1f33313de68a5dcc815e8535d3b7c8f5204a2da1c"
+}
