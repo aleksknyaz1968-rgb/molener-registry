@@ -1,12 +1,12 @@
 {
   "protocol": "MOLENER",
-  "last_updated": "2026-10-24T15:40:00Z",
-  "total_supply": 18.5,
-  "burned_total": 0.3,
+  "last_updated": "2026-10-24T17:10:00Z",
+  "total_supply": 23.5,
+  "burned_total": 0.5,
   "balances": {
-    "founder_address": 1.9,
-    "protocol_pool": 14.1,
-    "ai_executor": 2.7
+    "founder_address": 2.4,
+    "protocol_pool": 16.6,
+    "ai_executor": 4.5
   },
   "transactions": [
     { "tx_id": "TX-001", "certificate_id": "MOLENER-GENESIS-0", "type": "emission", "amount": 1.0 },
@@ -14,6 +14,8 @@
     { "tx_id": "TX-003", "certificate_id": "MOLENER-TASK-2", "type": "emission", "amount": 5.0 },
     { "tx_id": "TX-004", "certificate_id": "MOLENER-TASK-2", "type": "payment_and_burn", "amount": 2.0, "burned": 0.2 },
     { "tx_id": "TX-005", "certificate_id": "MOLENER-TASK-3", "type": "emission", "amount": 3.0 },
-    { "tx_id": "TX-006", "certificate_id": "MOLENER-TASK-3", "type": "payment_and_burn", "amount": 1.0, "burned": 0.1 }
+    { "tx_id": "TX-006", "certificate_id": "MOLENER-TASK-3", "type": "payment_and_burn", "amount": 1.0, "burned": 0.1 },
+    { "tx_id": "TX-007", "certificate_id": "MOLENER-TASK-4", "type": "emission", "amount": 5.0 },
+    { "tx_id": "TX-008", "certificate_id": "MOLENER-TASK-4", "type": "payment_and_burn", "amount": 2.0, "burned": 0.2 }
   ]
 }

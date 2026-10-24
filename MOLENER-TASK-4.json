@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-4",
+  "timestamp": "2026-10-24T17:10:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Создание официального Telegram-канала t.me/MOLENER_Official для связи с сообществом.",
+  "author": "AI-агент и Основатель",
+  "executor": "Основатель",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 5.0,
+  "emission": {
+    "total_molener": 5.0,
+    "founder_share": 0.5,
+    "pool_share": 4.5
+  },
+  "hash_of_context": "863d199398e325ddc7593afece07b971f1f808b7eb60ccd70992cd2eb2343b10",
+  "signature": "0xd8464064522c069f83a80c05b979b3bd81ac86600bc8036a7c63399d2a89d8d412095dcc59eadaeac1eb2137b410b2c9e7f420d5e4551f2334b6832f697f52581c"
+}
