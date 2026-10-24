@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-2",
+  "timestamp": "2026-10-24T14:30:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Разработка плана продвижения MOLENER",
+  "author": "AI-агент",
+  "executor": "AI-агент",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 5.0,
+  "emission": {
+    "total_molener": 5.0,
+    "founder_share": 0.5,
+    "pool_share": 4.5
+  },
+  "hash_of_context": "95d43a29acd0d505b44e4d19e98381487e75540d174c6d2fcc48fb3609e6df7d",
+  "signature": "0x82616f864f723256160d3e61a7f6bb3a4246e3e7ad218e50a41310caf43e496921eb45d8448f12ede805997153a2160ecb687d0f762bb922d367fc71133af9191c"
+}

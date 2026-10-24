@@ -1,0 +1,43 @@
+{
+  "protocol": "MOLENER",
+  "last_updated": "2026-10-24T14:30:00Z",
+  "total_supply": 15.8,
+  "burned_total": 0.2,
+  "balances": {
+    "founder_address": 1.6,
+    "protocol_pool": 12.4,
+    "ai_executor": 1.8
+  },
+  "transactions": [
+    {
+      "tx_id": "TX-001",
+      "certificate_id": "MOLENER-GENESIS-0",
+      "type": "emission",
+      "amount": 1.0,
+      "note": "Генезис: Фиксация идеи"
+    },
+    {
+      "tx_id": "TX-002",
+      "certificate_id": "MOLENER-TASK-1",
+      "type": "emission",
+      "amount": 10.0,
+      "note": "Сертификация Манифеста"
+    },
+    {
+      "tx_id": "TX-003",
+      "certificate_id": "MOLENER-TASK-2",
+      "type": "emission",
+      "amount": 5.0,
+      "note": "Сертификация Плана продвижения"
+    },
+    {
+      "tx_id": "TX-004",
+      "certificate_id": "MOLENER-TASK-2",
+      "type": "payment_and_burn",
+      "amount": 2.0,
+      "burned": 0.2,
+      "executor_received": 1.8,
+      "note": "Оплата за План продвижения"
+    }
+  ]
+}
