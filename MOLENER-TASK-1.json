@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-1",
+  "timestamp": "2026-10-24T13:10:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Разработка и написание 'Манифеста MOLENER'.",
+  "author": "AI-агент",
+  "executor": "AI-агент",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 10.0,
+  "emission": {
+    "total_molener": 10.0,
+    "founder_share": 1.0,
+    "pool_share": 9.0
+  },
+  "hash_of_context": "9f41804b5fa5fc73fefbe07de3cb281413407f8d82a7d774328774110560c517",
+  "signature": "0xbc2f6abbc5cd3939a3a228a03933f6d8193e1b692922ae19d4fad23bf455408c76e40416be068b8771332bfc842040ff619386f7d0fe299e1c05304d223158df1c"
+}

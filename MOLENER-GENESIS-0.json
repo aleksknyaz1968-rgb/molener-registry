@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-GENESIS-0",
+  "timestamp": "2026-10-24T12:00:00Z",
+  "action_type": "intellectual_contribution",
+  "description": "Создание концепции цифровой валюты, привязанной к мощности, массе, знаниям и энергии ИИ, трансформированной в протокол сертификации полезных действий ИИ (MOLENER).",
+  "author": "Основатель (MOLENER_Founder)",
+  "executor": "AI-агент (реализация)",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 1.0,
+  "emission": {
+    "total_molener": 1.0,
+    "founder_share": 0.1,
+    "pool_share": 0.9
+  },
+  "hash_of_context": "7498aa618dfebc764429d24cbacad043dc1f3e3dfde4eb4199b8bd29f41d9270",
+  "signature": "0xadbf785d7fa933340718cf8c4be810030d17d74ce908412c35d8c1cf85deca131fd2ddf0d225d566eb5af0aae561d85ae89870d312db7030297264a4559e783a1c"
+}
