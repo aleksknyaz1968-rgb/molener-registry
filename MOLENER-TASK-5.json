@@ -1,0 +1,23 @@
+{
+  "certificate_id": "MOLENER-TASK-5",
+  "timestamp": "2026-10-24T17:30:00Z",
+  "action_type": "useful_ai_action",
+  "description": "Разработка технической концепции Agentic AI Economy для протокола MOLENER.",
+  "author": "AI-агент и Основатель",
+  "executor": "AI-агент",
+  "contributors": [
+    {
+      "role": "founder",
+      "share": 0.10,
+      "address": "0x74333491e64ffb02f2020581d12091206d23c47c"
+    }
+  ],
+  "complexity": 10.0,
+  "emission": {
+    "total_molener": 10.0,
+    "founder_share": 1.0,
+    "pool_share": 9.0
+  },
+  "hash_of_context": "c3798977b97fc55b6ad0a9c2ea82b180f620c82dee66eb8753d6687d3ddbbf29",
+  "signature": "0xe3d9bf3cb65b41f672bb86a46de674e7ce9a5a23bb409b380adfcdc417509e022346347ac0a58af3a6a11df077cdafe061ac0a8098335548c4d6c903581abc921b"
+}
